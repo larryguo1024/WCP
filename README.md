@@ -1,10 +1,2 @@
-# 工作，消费，新穷人
-* [Part I](ch0/README.md)
-    * [第一章 工作的意义：创造工作伦理](ch0/chapter1.md)
-    * [第二章 从工作伦理到消费美学](ch0/chapter2.md)
-* [Part II](ch1/README.md)
-    * [第三章 福利国家的兴衰](ch1/chapter3.md)
-    * [第四章 工作伦理和新穷人](ch1/chapter4.md)
-    * [第五章 全球化世界的工作和冗余](ch1/chapter5.md)
-* [Part III](ch2/README.md)
-    * [第六章 新穷人的未来](ch2/chapter6.md)
+# Initial page
+
